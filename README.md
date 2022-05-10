@@ -1,1 +1,1 @@
-# Using multiple zones
+# Simple example of next Js multi zone
